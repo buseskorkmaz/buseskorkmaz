@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a PhD student at Imperial College London, with
 - **End-to-End Large Models Training**
   - Investigating the secrets of efficient training processes for large models.
   - Sharing insights and methodologies to contribute to public knowledge in this domain.
-  - Favourites repos so far: ![GPT with C/CUDA](https://github.com/karpathy/llm.c.git) , ![Llama3 from scratch](https://github.com/naklecha/llama3-from-scratch)
+  - Favourites repos so far: [GPT with C/CUDA](https://github.com/karpathy/llm.c.git) , [Llama3 from scratch](https://github.com/naklecha/llama3-from-scratch)
 
 ## 📊 GitHub Activity
 
