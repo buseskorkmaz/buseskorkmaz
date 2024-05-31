@@ -33,6 +33,4 @@ Welcome to my GitHub profile! I'm a PhD student at Imperial College London, with
 [![Buse's GitHub Activity Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buseskorkmaz&theme=cobalt)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buseskorkmaz&layout=compact&theme=cobalt)
 
-
-Thank you for visiting my profile 🚀
 ---
