@@ -14,7 +14,13 @@ Welcome to my GitHub profile! I'm a PhD student at Imperial College London, with
 
 ## 🧑‍💻 Professional Experience
 
-- **AI Research Intern @ IBM Research**
+- **Applied Scientist Intern @ Amazon [October 2024 - Ongoing]**
+   - Working on innovating machine translation methods.
+
+- **AI Research Intern @ IBM Research [Summer 2024]**
+  - Explored the knowledge and language quality gaps in debiased language models. Investigated faithful and fair language generation methods.
+   
+- **AI Research Intern @ IBM Research [Summer 2023]**
   - Developed a computational feedback based fine-tuning method for harnessing generative capabilities of large language models on sensitive downstream tasks where human evaluations are ambigious and expensive to obtain. 
   
 - **Machine Learning Engineer II @ Comcast NBCUniversal**
