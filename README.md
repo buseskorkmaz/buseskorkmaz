@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a PhD student at Imperial College London, with
    - Developing models tailored for scientific literature and discourse.
    - Enhancing the accuracy and efficiency of LLMs in understanding and generating scientific content.
 
-2. **Factually Correct Fair Representations**
+2. **Factually Correct Debiased Generations**
    - Ensuring LLMs generate factually accurate and unbiased outputs.
    - Researching methodologies to mitigate biases and enhance fairness in model predictions.
 
